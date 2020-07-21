@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is Sachin. I am an aspiring software developer. 
-Currently learning JavaScript and Web developemnt.
+Currently learning JavaScript and Web development.
 
 Other than this I enjoy reading novel and Playing Cricket (favourite sport).
 
