@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+This is Sachin. I am an aspiring software developer. 
+Currently learning JavaScript and Web developemnt.
+
+Other than this I enjoy reading novel and Playing Cricket (favourite sport).
+
+Reach me at :
+
+<a href="https://twitter.com/SachinSinghNe17" rel="nofollow"><img src="https://camo.githubusercontent.com/7bb377436f06f85e9a9b4c88a360849bbdbaf99d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2d5f2e7376673f7374796c653d736f6369616c266c6f676f3d74776974746572" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter--_.svg?style=social&amp;logo=twitter" style="max-width:100%;"></a>
+
 <!--
 **sachinnegi/sachinnegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
