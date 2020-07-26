@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://i.imgur.com/Ge5ikvL.gif">
+
 
 This is Sachin. I am an aspiring software developer. 
 Currently learning JavaScript and Web development.
