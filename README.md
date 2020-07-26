@@ -1,7 +1,9 @@
 ### Hi there 👋
 <img src="https://i.imgur.com/Ge5ikvL.gif">
+<br>
+<img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" height=100px width=700px;>
 
-<img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" height=100px width=600px;>
+
 
 
 This is Sachin. I am an aspiring software developer. 
