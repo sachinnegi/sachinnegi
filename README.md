@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://i.imgur.com/Ge5ikvL.gif">
 <br>
-<img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" height=40px width=700px;>
+<img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" height=20px width=700px;>
 
 
 
