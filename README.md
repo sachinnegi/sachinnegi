@@ -11,7 +11,6 @@ Currently learning JavaScript and Web development.
 
 Other than this I enjoy reading novel and Playing Cricket (favourite sport).
 
-- 🔭 <b>I’m currently working on 30 Day JavaScript Challenge </b>
 
 
 <p><img src="https://komarev.com/ghpvc/?username=sachinnegi"> &nbsp  &nbsp  <img src="https://img.shields.io/github/followers/sachinnegi"> </P>
