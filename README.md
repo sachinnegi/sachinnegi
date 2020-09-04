@@ -22,8 +22,8 @@ Other than this I enjoy reading novel and Playing Cricket (favourite sport).
 
 
 <p>
-<img style= 'background:black;' width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinnegi&layout=compact&bg_color=151515&text_color=daf7dc">  &nbsp &nbsp
-<img width="430px" src="https://github-readme-stats.vercel.app/api?username=sachinnegi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img style= 'background:black;' width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinnegi&layout=compact&bg_color=151515&text_color=0ee8e1">  &nbsp &nbsp
+<img width="430px" src="https://github-readme-stats.vercel.app/api?username=sachinnegi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=0ee8e1&bg_color=151515">
 </p>
 
 
