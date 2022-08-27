@@ -6,8 +6,8 @@
 
 
 
-This is Sachin. I am an aspiring software developer. 
-Currently learning JavaScript and Web development.
+This is Sachin. I am a software developer following DevOps practices. 
+Currently exploring ....
 
 Other than this I enjoy reading novel and Playing Cricket.
 
